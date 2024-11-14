@@ -1,4 +1,4 @@
-from src.apps_config import CleanAppConfig
+from apps_config import CleanAppConfig
 
 
 class AccountConfig(CleanAppConfig):
